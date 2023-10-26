@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Mr. Bones](https://github.com/soumyHotbones/portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Mr. Bones](https://github.com/Hotbones/My-Portfolio). Thanks!
 
 ## Built With
 
