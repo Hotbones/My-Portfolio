@@ -1,4 +1,4 @@
-## ![WhatsApp Image 2022-09-16 at 19 50 12](https://github.com/Hotbones/portfolio/assets/105388226/08537aa3-9747-4e56-a516-33507aa61bc7)
+## ![2](https://github.com/Hotbones/My-Portfolio/assets/105388226/5ace7e5f-0501-41e6-988b-33775bf1e124)
 
 ## TL;DR
 
