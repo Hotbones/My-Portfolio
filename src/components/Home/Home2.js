@@ -83,8 +83,6 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-              </li>
             </ul>
           </Col>
         </Row>
