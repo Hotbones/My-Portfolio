@@ -28,7 +28,7 @@ function Home2() {
               I specialize in quality&nbsp;
               <i>
                 <b className="blue">Web Technologies and Products, </b> and
-                with a keen interest in areas related{" "}
+                with a keen interest in areas related to {" "}
                 <b className="blue">
                   Blockchain.
                 </b>
@@ -36,7 +36,7 @@ function Home2() {
               <br />
               <br />
               Furthermore, whenever the opportunity arises, I channel my enthusiasm into developing products using
-              <b className="blue">Python</b> and
+              <b className="blue"> Python</b> and
               <i>
                 <b className="blue">
                   {" "}
