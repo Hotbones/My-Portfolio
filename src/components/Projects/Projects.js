@@ -6,7 +6,7 @@ import ecommerce from "../../Assets/Projects/01 - e commerce.gif";
 import space from "../../Assets/Projects/02 - space.gif";
 import bank from "../../Assets/Projects/03 - Bank.gif";
 import paddle from "../../Assets/Projects/04 - paddle.png";
-import RecreArte from "../../Assets/Projects/05 - annie.png";
+import recrearte from "../../Assets/Projects/05 - annie.png";
 import element from "../../Assets/Projects/06 - element.jpg";
 
 function Projects() {
@@ -65,19 +65,17 @@ function Projects() {
               isBlog={false}
               title="Paddle Ball"
               description="Un sistema web enfocado principalmente al paddle, donde pueda elegir donde, como, cuando y con quien jugar. Diseñado para evitar que el usuario se quede sin jugar cuando lo desea. Ideal para aficionados. Eficiente y accesible para cualquier persona.."
-              ghLink="https://github.com/Hotbones/The-paddle-ball.git"
               demoLink="https://paddle-ball.netlify.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={RecreArte}
+              imgPath={recrearte}
               isBlog={false}
-              title="Annie app"
+              title="RecreArte Web Site"
               description="Web Site dedicada a diferentes especialidades para la salud mental y corporal."
               demoLink="https://recreart.netlify.app/"
-              ghLink="https://github.com/Hotbones/Annie.git"
             />
           </Col>
 
