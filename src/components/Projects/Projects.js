@@ -8,6 +8,7 @@ import bank from "../../Assets/Projects/03 - Bank.gif";
 import paddle from "../../Assets/Projects/04 - paddle.png";
 import recrearte from "../../Assets/Projects/05 - annie.png";
 import element from "../../Assets/Projects/06 - element.jpg";
+import annie from "../../Assets/Projects/06 - Annieapp.png";
 
 function Projects() {
   return (
@@ -21,6 +22,17 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={recrearte}
+              isBlog={false}
+              title="RecreArte Web Site"
+              description="Web Site dedicada a diferentes especialidades para la salud mental y corporal."
+              demoLink="https://recreart.netlify.app/"
+            />
+          </Col>
+            
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={ecommerce}
@@ -71,21 +83,21 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={recrearte}
-              isBlog={false}
-              title="RecreArte Web Site"
-              description="Web Site dedicada a diferentes especialidades para la salud mental y corporal."
-              demoLink="https://recreart.netlify.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={element}
               isBlog={false}
               title="Elements-of-Bootstrap"
               description="The project of the COINBASE page created with HTML, CSS and Bootstrap elements."
               ghLink="https://github.com/Hotbones/Elements-of-Bootstrap.git"
+            />
+          </Col>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={annie}
+              isBlog={false}
+              title="Annie App"
+              description="Una nueva manera de reservar y contratar tu niñera personalizada de manera online. Annie es la plataforma de contratación nueva de Argentina."
+              ghLink="https://github.com/Hotbones/Annie.git"
             />
           </Col>
         </Row>
