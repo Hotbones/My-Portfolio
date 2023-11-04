@@ -6,7 +6,7 @@ import ecommerce from "../../Assets/Projects/01 - e commerce.gif";
 import space from "../../Assets/Projects/02 - space.gif";
 import bank from "../../Assets/Projects/03 - Bank.gif";
 import paddle from "../../Assets/Projects/04 - paddle.png";
-import annie from "../../Assets/Projects/05 - annie.png";
+import RecreArte from "../../Assets/Projects/05 - annie.png";
 import element from "../../Assets/Projects/06 - element.jpg";
 
 function Projects() {
@@ -72,10 +72,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={annie}
+              imgPath={RecreArte}
               isBlog={false}
               title="Annie app"
-              description="Una nueva manera de reservar y contratar tu niñera personalizada de manera online. Annie es la plataforma de contratación nueva de Argentina."
+              description="Web Site dedicada a diferentes especialidades para la salud mental y corporal."
+              demoLink="https://recreart.netlify.app/"
               ghLink="https://github.com/Hotbones/Annie.git"
             />
           </Col>
