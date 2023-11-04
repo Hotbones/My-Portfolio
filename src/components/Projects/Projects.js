@@ -8,7 +8,7 @@ import bank from "../../Assets/Projects/03 - Bank.gif";
 import paddle from "../../Assets/Projects/04 - paddle.png";
 import recrearte from "../../Assets/Projects/05 - annie.png";
 import element from "../../Assets/Projects/06 - element.jpg";
-import annie from "../../Assets/Projects/06 - Annieapp.png";
+import annie from "../../Assets/Projects/07 - Annieapp.png";
 
 function Projects() {
   return (
