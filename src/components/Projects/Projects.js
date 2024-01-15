@@ -11,7 +11,7 @@ import element from "../../Assets/Projects/06 - element.jpg";
 import annie from "../../Assets/Projects/07 - Annieapp.png";
 
 function Projects() {
-  return (
+  return (  
     <Container fluid className="project-section">
       <Particle />
       <Container>
