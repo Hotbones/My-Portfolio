@@ -9,6 +9,7 @@ import paddle from "../../Assets/Projects/04 - paddle.png";
 import recrearte from "../../Assets/Projects/05 - annie.png";
 import element from "../../Assets/Projects/06 - element.jpg";
 import annie from "../../Assets/Projects/07 - Annieapp.png";
+import nutricion from "../../Assets/Projects/08 - nutricion.jpg";
 
 function Projects() {
   return (  
@@ -23,7 +24,17 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
-          <Col md={4} className="project-card">
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={nutricion}
+              isBlog={false}
+              title="Nutricion Web Site"
+              description="Este proyecto apunta a la alimentacion y nutricion de las personas."
+              demoLink="https://gabyaraniti.netlify.app/"
+            />
+        </Col>
+                
+        <Col md={4} className="project-card">
             <ProjectCard
               imgPath={recrearte}
               isBlog={false}
