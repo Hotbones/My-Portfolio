@@ -32,7 +32,6 @@ function Projects() {
               description="Este proyecto apunta a la alimentacion y nutricion de las personas."
               demoLink="https://gabyaraniti.netlify.app/"
               ghLink="https://github.com/Hotbones/Nutricion.git"
-                
             />
         </Col>
                 
@@ -43,6 +42,7 @@ function Projects() {
               title="RecreArte Web Site"
               description="Web Site dedicada a diferentes especialidades para la salud mental y corporal."
               demoLink="https://recreart.netlify.app/"
+              ghLink="https://github.com/Hotbones/Test-Psiquiatry-Web-site.git"
             />
           </Col>
             
