@@ -31,6 +31,8 @@ function Projects() {
               title="Nutricion Web Site"
               description="Este proyecto apunta a la alimentacion y nutricion de las personas."
               demoLink="https://gabyaraniti.netlify.app/"
+              ghLink="https://github.com/Hotbones/Nutricion.git"
+                
             />
         </Col>
                 
@@ -77,7 +79,7 @@ function Projects() {
               title="Zero-Bank"
               description="e2e test on a bank page that successfully performs a bank transfer.
 
-              Url a testear --> http://zero.webappsecurity.com"
+              Url a testear --> "http://zero.webappsecurity.com"
               ghLink="https://github.com/Hotbones/Zero-Bank.git"             
             />
           </Col>
